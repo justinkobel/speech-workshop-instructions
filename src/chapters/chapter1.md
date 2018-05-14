@@ -198,7 +198,14 @@ The opened solution should look like this:
 
 <img src="images/chapter1/opened-solution.png" class="img-override" />
 
-Build and debug the solution. You should see the Speech Recognition site load in your browser.
+**Set your default browser in Visual Studio**
+Now that you have your evergreen browser available on this virutal machine, configure Visual Studio to use it rather than the built in Internet Explorer browser. 
+
+Click the small down arrow next to the "Play" icon. 
+
+Select your preferred browser, and click "Set as default"
+
+Build and debug the solution by pressing F5. You should see the Speech Recognition site load in your browser.
 
 <img src="images/chapter1/site.png" class="img-override" />
 
